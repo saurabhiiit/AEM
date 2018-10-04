@@ -203,7 +203,10 @@ typedef doublereal E_f;	/* real function with -R not specified */
 #undef sun2
 #undef sun3
 #undef sun4
-#undef u370
+#undef sun5
+#undef sun6
+#undef u223
+#undef u340
 #undef u3b
 #undef u3b2
 #undef u3b5
